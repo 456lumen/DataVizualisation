@@ -39,10 +39,11 @@ Ce type de représentation est très couramment utilisée pour représenter un t
 
 ## Critiques
 ### Les points positifs
-* 
+* La carte isochrone représente à la fois les distances et les temps de parcours. Dans de nombreux cas, les deux informations sont nécessaires, par exemple pour choisir son lieu de résidence en fonction de son lieu de travail. 
 
 ### Les points négatifs
-* 
+* La carte isochrone est calculée, et ne tiens pas compte de la fréquence et de la fiabilité du réseau de transport. 
+* La couleur est un critère qui est moins lisible qu'une distance. Si seule la lecture du temps de parcours importe, il est préférable d'utiliser une carte par anamorphose, c'est à dire qui déforme les distances de manière à ce que deux trajets d'une même durée soient représentés par une même longueur sur la carte. 
 
 ## Sources
 * [1] Page wikipedia "Carte isochrone" : https://fr.wikipedia.org/wiki/Carte_isochrone
