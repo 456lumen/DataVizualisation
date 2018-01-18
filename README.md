@@ -3,9 +3,9 @@
 ## Introduction
 Une carte isochrone [1] est une carte qui montre des aires délimitées par des courbes isochones, qui relient des points où un évènement se produit en même temps.
 ## Description
-Ce type de représentation est très couramment utilisée pour représenter un temps de transport. On se donne un point de départ ainsi qu'un ensemble de moyens de transport possibles. Une courbe isochone représente un ensemble de destinations qui sont atteintes en un temps égal en partant du point de départ en utilisant les moyens de transport donnés. Par exemple dans le cas de la marche à pied et d'un terrain plat et dégagé, les courbes isochones sont des cercles concentriques autours de l'origine. 
+Ce type de représentation est très couramment utilisée pour représenter un temps de transport. On se donne un point de départ ainsi qu'un ensemble de moyens de transport possibles. Une courbe isochrone représente un ensemble de destinations qui sont atteintes en un temps égal en partant du point de départ en utilisant les moyens de transport donnés. Par exemple dans le cas de la marche à pied et d'un terrain plat et dégagé, les courbes isochrones sont des cercles concentriques autours de l'origine. 
 
-## Utilisation & Exemples connus
+## Utilisation & Exemples
 
 
 <table border="0">
@@ -16,7 +16,7 @@ Ce type de représentation est très couramment utilisée pour représenter un t
   </tr>
   <tr>
     <td align="center" bgcolor="EFEFEF">
-      Carte isochrone représentant la durée nécessaire pour aller de Paris à une déstitation avec les moyens de transport ferrés plus de la marche à pied. Source [2]
+      Carte isochrone représentant la durée nécessaire pour aller de Paris à une déstination avec les moyens de transport ferrés plus de la marche à pied. Source [2]
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@ Ce type de représentation est très couramment utilisée pour représenter un t
   </tr>
   <tr>
     <td align="center" bgcolor="EFEFEF">
-      Le site géoportail [3] permet de calculer des isochones. Voici la zone accessible (calculée) à moins de deux minutes de voiture de l'Ecole Centrale Lyon
+      Le site géoportail [3] permet de calculer des cartes isochrones. Voici la zone accessible (calculée) à moins de deux minutes de voiture de l'Ecole Centrale de Lyon
     </td>
   </tr>
 </table>
