@@ -48,5 +48,5 @@ Ce type de représentation est très couramment utilisée pour représenter un t
 ## Sources
 * [1] Page wikipedia "Carte isochrone" : https://fr.wikipedia.org/wiki/Carte_isochrone
 http://data.blog.lemonde.fr/2015/05/29/data-veille-jusquou-peut-on-aller-en-train-en-moins-dune-journee/
-* [2] Blog "Empty Pipes" (carte basée sur l'API des transports publics Suisses (http://transport.opendata.ch/): http://emptypipes.org/2015/05/20/europe-isochrone-map/
+* [2] Blog "Empty Pipes" (carte basée sur l'API des transports publics Suisses (http://transport.opendata.ch/)) : http://emptypipes.org/2015/05/20/europe-isochrone-map/
 * [3] Site géoportail : https://www.geoportail.gouv.fr/
